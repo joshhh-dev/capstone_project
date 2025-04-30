@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Qsafe_App",
+    "slug": "Qsafe_App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Icon1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Icon1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F6F1E3"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Icon1.png",
+        "backgroundColor": "#F6F1E3"
+      },
+      "package": "QsafeApp.apk"
+    },
+    "web": {
+      "favicon": "./assets/Icon1.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3788bd4e-cd0f-4ac4-b7db-bf9a522baac9"
+      }
+    }
+  }
+}
